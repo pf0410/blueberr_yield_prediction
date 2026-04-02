@@ -10,7 +10,7 @@ Wild blueberry yield prediction using a combination of computer simulation and m
 *Computers and Electronics in Agriculture*, 179, 105844.
 https://doi.org/10.1016/j.compag.2020.105844
 
-数据集在天池公开数据集中下载，包含文件：
+数据集在天池公开数据集中下载，https://tianchi.aliyun.com/dataset/211780，包含文件：
  - train.csv（训练集）
  - test.csv（测试集）
 

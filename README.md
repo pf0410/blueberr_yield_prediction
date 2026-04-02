@@ -1,4 +1,4 @@
-# blueberr_yield_prediction
+# blueberry_yield_prediction
 
 ## 项目介绍
 本项目针对野生蓝莓产量预测构建机器学习模型，使用天池公开数据集，通过数据探索分析、特征工程、模型训练与评估，实现高精度产量预测。
